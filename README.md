@@ -37,15 +37,6 @@ This project is crafted using lightweight, modern web standards without heavy fr
   * **Skills & Projects Grid:** Categorized cards showcasing technical competencies and software systems.
   * **Contact Section:** Direct communication channels and social links.
 
----
-
-## 📂 Project Structure
-
-```text
-├── index.html        # Main markup structure & SEO metadata
-├── style.css         # Custom styling, animations, and responsive layout
-└── ahmet1.png        # Profile visual asset
-
 👤 Author
 Ahmetcan Buruş
 
@@ -57,3 +48,13 @@ LinkedIn
 
 📝 License
 This project is open-source and available under the MIT License.
+
+---
+
+## 📂 Project Structure
+
+```text
+├── index.html        # Main markup structure & SEO metadata
+├── style.css         # Custom styling, animations, and responsive layout
+└── ahmet1.png        # Profile visual asset
+
